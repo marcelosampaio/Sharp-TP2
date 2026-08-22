@@ -1,5 +1,25 @@
+# Build
 bin/
 obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+
+# NuGet
+packages/
+*.nupkg
+
+# Rider / JetBrains
+.idea/
+*.iml
+_ReSharper*/
+*.[Rr]e[Ss]harper*/
+
+# User-specific files
+*.user
+*.suo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Visual Studio
+.vs/
