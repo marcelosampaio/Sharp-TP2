@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-TP2", "CSharp-TP2\CSharp-TP2.csproj", "{ABEB5144-9CAC-4767-937C-E23BAF936C91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTP201", "CSharpTP201\CSharpTP201.csproj", "{C5AC64E1-FDB1-45F3-BB25-91705854BD34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ABEB5144-9CAC-4767-937C-E23BAF936C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ABEB5144-9CAC-4767-937C-E23BAF936C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ABEB5144-9CAC-4767-937C-E23BAF936C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ABEB5144-9CAC-4767-937C-E23BAF936C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AC64E1-FDB1-45F3-BB25-91705854BD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AC64E1-FDB1-45F3-BB25-91705854BD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AC64E1-FDB1-45F3-BB25-91705854BD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AC64E1-FDB1-45F3-BB25-91705854BD34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
